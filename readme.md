@@ -190,7 +190,7 @@
 - [eterm](https://github.com/mej/Eterm) - Eterm terminal emulator , made as a replacement for xterm. (C)
 - [Extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators. (typescript)
 - [Flterm](https://github.com/yongchaofan/FLTerm) - fast light terminal emulator. (C++)
-- [finalterm](https://github.com/p-e-w/finalterm) - At last – a modern terminal emulator. (vala)
+- [finalterm](https://github.com/p-e-w/finalterm) - At last – a modern terminal emulator. no longer maintained (vala)
 - [Guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME. (python)
 - [Hyper](https://github.com/zeit/hyper) - A terminal built on web technologies. (javascript)
 - [Konsole](https://konsole.kde.org/) - Konsole is a terminal emulator for the K Desktop Environment. (c++)
